@@ -1,3 +1,4 @@
+
 ### **Synthèse**
 - **Lead Implementer ISO 27001** : Professionnel chargé de diriger la mise en œuvre du système de gestion de la sécurité de l'information (SGSI) selon la norme ISO 27001.
 - **Responsabilités** : Planification, mise en œuvre, surveillance et amélioration continue du SGSI.
